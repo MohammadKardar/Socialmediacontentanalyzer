@@ -47,7 +47,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-800 text-center text-sm">
-          <p>© 2025 Social Media Content Analyzer. Powered by AI.</p>
+          <p>All rights reserved.</p>
         </div>
       </div>
     </footer>
